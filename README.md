@@ -27,15 +27,22 @@ Specifically, we will start from a baseline R-CNN model, then move into the curr
 # References
 
 https://www.kaggle.com/c/global-wheat-detection/overview
+
 Redmon et. al., 2015. You Only Look Once: Unified, Real-Time Object Detection
+
 Ren et. al., 2016. Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
 
 # Schedule, Timeline, and Team Responsibilities
 
 June 2nd: EDA (Lin); GPU set-up (Xiao)
+
 June 7th: Finish data augmentation, have a baseline model (Lin, Xiao)
+
 June 12th: Have a Yolo (Lin) or Faster RCNN (Xiao) model, progress report (Lin, Xiao)
+
 June 19th: Fine-tuning, focus on one direction for improvement (Lin, Xiao)
+
 June 22nd: Final report (Lin, Xiao)
+
 June 24th: Final presentation
 
